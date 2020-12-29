@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uq7luS7L15wKoy4cMbxehhqSAvMcvoajaayO3eyd3o11YsfZ9/DbvjUcOluK4pZ88mYvkqrvlv8Fv6ecWABv8Q==",
+  "success": true,
+  "projectFilePath": "/Users/mymac/Projects/TheCSharpPlayersGuidePracticeApp/CSharpPlayersGuideProgram/CSharpPlayersGuideProgram.csproj",
+  "expectedPackageFiles": [
+    "/Users/mymac/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

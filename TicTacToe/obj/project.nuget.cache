@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x3O4PY8uLZuc/H0J4yHM/0UyLmtYeP8tHpLC6VvQfCRauWRtMyfGfRxh+ovfVtytvF/kZidGw5bO12rFkPcHHA==",
+  "success": true,
+  "projectFilePath": "/Users/mymac/Projects/TheCSharpPlayersGuidePracticeApp/TicTacToe/TicTacToe.csproj",
+  "expectedPackageFiles": [
+    "/Users/mymac/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

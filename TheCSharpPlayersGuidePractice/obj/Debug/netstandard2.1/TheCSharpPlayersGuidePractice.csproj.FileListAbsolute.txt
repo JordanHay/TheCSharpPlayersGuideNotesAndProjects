@@ -1,0 +1,4 @@
+/Users/mymac/Projects/TheCSharpPlayersGuidePracticeApp/TheCSharpPlayersGuidePractice/obj/Debug/netstandard2.1/TheCSharpPlayersGuidePractice.csprojAssemblyReference.cache
+/Users/mymac/Projects/TheCSharpPlayersGuidePracticeApp/TheCSharpPlayersGuidePractice/obj/Debug/netstandard2.1/TheCSharpPlayersGuidePractice.AssemblyInfoInputs.cache
+/Users/mymac/Projects/TheCSharpPlayersGuidePracticeApp/TheCSharpPlayersGuidePractice/obj/Debug/netstandard2.1/TheCSharpPlayersGuidePractice.AssemblyInfo.cs
+/Users/mymac/Projects/TheCSharpPlayersGuidePracticeApp/TheCSharpPlayersGuidePractice/obj/Debug/netstandard2.1/TheCSharpPlayersGuidePractice.csproj.CoreCompileInputs.cache
